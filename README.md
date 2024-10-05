@@ -7,15 +7,13 @@
 
 
 <div align="center" style="margin: 0; padding: 0;">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,flutter,kotlin,dart,html,css,github,vscode,git,java,ktor,cpp,dotnet,supabase" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,sqlite,firebase,xd,c,java,arduino,mysql,bootstrap,cs,gradle,svg" />
 </div>
 
 </br>
 
-</br>
-</br>
+<div align="center">
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
-<div align="center" style="margin: 0; padding: 0;">
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
