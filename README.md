@@ -1,13 +1,9 @@
-![MasterHead](https://github.com/AbdulkadirAkansu/AbdulkadirAkansu/blob/main/CM_Android-dev-Flutter_FB.png)
-![](https://komarev.com/ghpvc/?username=CagatayAkkas&color=blue)
+
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Abdulkadir+Akansu+%e2%9c%a8;%f0%9f%93%9a+Software+Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80&color=FFFF00" alt="Typing SVG" />
  </a>
 </div>
-
-
-How to reach me **abdulkadirakansuu@gmail.com**
 
 
 <!--
@@ -44,32 +40,17 @@ How to reach me **abdulkadirakansuu@gmail.com**
 
 
 
-# Github Stats
-
+ <br />
+ <br />
+ <br />
  <br />
  
-<br />
 
 
- 
- <p align="center">
-  <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CagatayAkkas&theme=material-palenight&hide_border=false" alt="CagatayAkkas" width="55%" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
-  </a>
-</p>
-
-
- <br />
- 
-  
   
   <p align="center">
   <a>
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Left.png">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CagatayAkkas&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="CagatayAkkas" />
-    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Bottom%20Right.png">
   </a>
 </p>
  
