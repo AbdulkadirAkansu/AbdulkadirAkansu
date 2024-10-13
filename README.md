@@ -11,9 +11,5 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,postman,sqlite,firebase,xd,c,java,arduino,mysql,bootstrap,cs,gradle,svg" />
 </div>
 
-</br>
 
-<div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
